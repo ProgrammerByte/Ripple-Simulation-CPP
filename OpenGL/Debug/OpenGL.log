@@ -1,0 +1,37 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(32,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(32,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(32,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(36,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(36,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(36,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(36,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(37,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(37,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(37,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(37,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(38,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(38,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(38,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(38,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(39,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(39,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(39,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(39,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(40,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(40,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(40,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(40,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(41,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(41,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(41,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(41,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(42,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(42,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(42,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(42,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(43,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(43,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(43,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\src\Application.cpp(43,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\Debug\Template.exe

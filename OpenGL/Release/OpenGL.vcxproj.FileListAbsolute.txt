@@ -1,0 +1,2 @@
+C:\Users\Thomas Popay\source\repos\Wave2\OpenGL\Release\Template.exe
+C:\Users\Thomas Popay\source\repos\Wave\OpenGL\Release\Template.exe
